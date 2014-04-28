@@ -273,8 +273,8 @@ namespace AlexaAPI.Controllers
             var model = new IndexModel();
 
             // Intentionaly commented below so you see the compiler error and change to your own credentials.
-            //String accessKey = "YOUR_ACCESS_KEY";
-            //String secretKey = "YOUR_SECRET_KEY";
+            string accessKey = "YOUR_ACCESS_KEY";
+            string secretKey = "YOUR_SECRET_KEY";
 
             string categories = "Top/Business/Automotive";
 
