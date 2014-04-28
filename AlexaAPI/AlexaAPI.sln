@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaAPI", "AlexaAPI\AlexaAPI.csproj", "{FA68869C-F4C2-4508-A668-3BCED3826777}"
+EndProject
+Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 5321c5ab-3c7e-46c9-8ef0-290c95717971
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA68869C-F4C2-4508-A668-3BCED3826777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA68869C-F4C2-4508-A668-3BCED3826777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA68869C-F4C2-4508-A668-3BCED3826777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA68869C-F4C2-4508-A668-3BCED3826777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
